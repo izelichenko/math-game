@@ -1,4 +1,4 @@
-# math-game
+# Math-Games
 Math Games
 
 Game Design
